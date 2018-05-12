@@ -1,0 +1,29 @@
+_repo: Noble-Deeds-of-American-WomenWith-Biographical-Sketches-of-Some-of-the-More-Prominent_39079
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Clement, J. (Jesse)
+    alias: Clement, Jesse
+    birthdate: 1815
+    deathdate: 1883
+    gutenberg_agent_id: '39829'
+    url: http://www.gutenberg.org/2009/agents/39829
+description: ''
+gutenberg_issued: '2012-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39079'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- United States -- Biography'
+- !lcc 'CT'
+title: 'Noble Deeds of American Women
+
+  With Biographical Sketches of Some of the More Prominent'
+url: http://www.gutenberg.org/ebooks/39079
